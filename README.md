@@ -4,4 +4,4 @@ Hello,
 I'm Theodore Austin.  
 Just starting to learn GitHub.
 
-Looks like great platform,
+Looks like great platform.
